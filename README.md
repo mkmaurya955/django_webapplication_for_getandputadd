@@ -1,0 +1,1 @@
+# django_webapplication_for_getandputadd
